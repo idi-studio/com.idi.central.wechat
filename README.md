@@ -1,0 +1,1 @@
+# com.idi.central.wechat
